@@ -1,5 +1,13 @@
 # 🚀 AWS EC2 Web Server Project
 
+**🌐 Languages:** [English](README.md) | [日本語 (Japanese)](README.jp.md)
+
+---
+
+[👉 **View Japanese Version**](README.jp.md)
+
+*Continue with your English content below...*
+
 ## 📋 Overview
 Complete deployment of a secure, production-ready web server on AWS EC2 using Free Tier.
 
